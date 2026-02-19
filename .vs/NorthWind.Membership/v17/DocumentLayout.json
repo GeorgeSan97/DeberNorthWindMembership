@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2214EB-A55B-4780-9005-E5525EB74C2E}|NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj|c:\\moviles\\primerparcial\\deberes\\northwind.membership\\northwind.membership.entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF2214EB-A55B-4780-9005-E5525EB74C2E}|NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj|solutionrelative:northwind.membership.entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Entities\\Class1.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Entities\\Class1.cs",
+              "ToolTip": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Entities\\Class1.cs",
+              "RelativeToolTip": "NorthWind.Membership.Entities\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T23:29:35.41Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
