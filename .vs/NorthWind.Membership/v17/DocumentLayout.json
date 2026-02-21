@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BF2214EB-A55B-4780-9005-E5525EB74C2E}|NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj|c:\\moviles\\primerparcial\\deberes\\northwind.membership\\northwind.membership.entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF2214EB-A55B-4780-9005-E5525EB74C2E}|NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj|solutionrelative:northwind.membership.entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E01ADE8C-71D7-4BDD-A34B-E088D6235394}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|c:\\moviles\\primerparcial\\deberes\\northwind.membership\\northwind.membership.backend.core\\endpointscontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01ADE8C-71D7-4BDD-A34B-E088D6235394}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\endpointscontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Entities\\Class1.cs",
-              "RelativeDocumentMoniker": "NorthWind.Membership.Entities\\Class1.cs",
-              "ToolTip": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Entities\\Class1.cs",
-              "RelativeToolTip": "NorthWind.Membership.Entities\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "EndpointsContainer.cs",
+              "DocumentMoniker": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\EndpointsContainer.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\EndpointsContainer.cs",
+              "ToolTip": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\EndpointsContainer.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\EndpointsContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T23:29:35.41Z",
+              "WhenOpened": "2026-02-21T15:15:09.122Z",
               "EditorCaption": ""
             }
           ]

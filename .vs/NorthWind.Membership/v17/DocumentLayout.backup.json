@@ -3,8 +3,76 @@
   "WorkspaceRootPath": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BF2214EB-A55B-4780-9005-E5525EB74C2E}|NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj|c:\\moviles\\primerparcial\\deberes\\northwind.membership\\northwind.membership.entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF2214EB-A55B-4780-9005-E5525EB74C2E}|NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj|solutionrelative:northwind.membership.entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E01ADE8C-71D7-4BDD-A34B-E088D6235394}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|c:\\moviles\\primerparcial\\deberes\\northwind.membership\\northwind.membership.backend.core\\endpointscontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01ADE8C-71D7-4BDD-A34B-E088D6235394}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\endpointscontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01ADE8C-71D7-4BDD-A34B-E088D6235394}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|c:\\moviles\\primerparcial\\deberes\\northwind.membership\\northwind.membership.backend.core\\extensions\\validationerrorsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01ADE8C-71D7-4BDD-A34B-E088D6235394}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\extensions\\validationerrorsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B26992-3422-4744-83D0-B2F3BFF209CF}|NorthWind.Membership.Backend.AspNetIdentity\\NorthWind.Membership.Backend.AspNetIdentity.csproj|c:\\moviles\\primerparcial\\deberes\\northwind.membership\\northwind.membership.backend.aspnetidentity\\extensions\\identityerrorextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B26992-3422-4744-83D0-B2F3BFF209CF}|NorthWind.Membership.Backend.AspNetIdentity\\NorthWind.Membership.Backend.AspNetIdentity.csproj|solutionrelative:northwind.membership.backend.aspnetidentity\\extensions\\identityerrorextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B26992-3422-4744-83D0-B2F3BFF209CF}|NorthWind.Membership.Backend.AspNetIdentity\\NorthWind.Membership.Backend.AspNetIdentity.csproj|c:\\moviles\\primerparcial\\deberes\\northwind.membership\\northwind.membership.backend.aspnetidentity\\services\\membershipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B26992-3422-4744-83D0-B2F3BFF209CF}|NorthWind.Membership.Backend.AspNetIdentity\\NorthWind.Membership.Backend.AspNetIdentity.csproj|solutionrelative:northwind.membership.backend.aspnetidentity\\services\\membershipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B26992-3422-4744-83D0-B2F3BFF209CF}|NorthWind.Membership.Backend.AspNetIdentity\\NorthWind.Membership.Backend.AspNetIdentity.csproj|c:\\moviles\\primerparcial\\deberes\\northwind.membership\\northwind.membership.backend.aspnetidentity\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B26992-3422-4744-83D0-B2F3BFF209CF}|NorthWind.Membership.Backend.AspNetIdentity\\NorthWind.Membership.Backend.AspNetIdentity.csproj|solutionrelative:northwind.membership.backend.aspnetidentity\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B26992-3422-4744-83D0-B2F3BFF209CF}|NorthWind.Membership.Backend.AspNetIdentity\\NorthWind.Membership.Backend.AspNetIdentity.csproj|c:\\moviles\\primerparcial\\deberes\\northwind.membership\\northwind.membership.backend.aspnetidentity\\resources\\messages.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{F1B26992-3422-4744-83D0-B2F3BFF209CF}|NorthWind.Membership.Backend.AspNetIdentity\\NorthWind.Membership.Backend.AspNetIdentity.csproj|solutionrelative:northwind.membership.backend.aspnetidentity\\resources\\messages.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B26992-3422-4744-83D0-B2F3BFF209CF}|NorthWind.Membership.Backend.AspNetIdentity\\NorthWind.Membership.Backend.AspNetIdentity.csproj|c:\\moviles\\primerparcial\\deberes\\northwind.membership\\northwind.membership.backend.aspnetidentity\\datacontexts\\northwindmembershipcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B26992-3422-4744-83D0-B2F3BFF209CF}|NorthWind.Membership.Backend.AspNetIdentity\\NorthWind.Membership.Backend.AspNetIdentity.csproj|solutionrelative:northwind.membership.backend.aspnetidentity\\datacontexts\\northwindmembershipcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B26992-3422-4744-83D0-B2F3BFF209CF}|NorthWind.Membership.Backend.AspNetIdentity\\NorthWind.Membership.Backend.AspNetIdentity.csproj|c:\\moviles\\primerparcial\\deberes\\northwind.membership\\northwind.membership.backend.aspnetidentity\\options\\membershipdboptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B26992-3422-4744-83D0-B2F3BFF209CF}|NorthWind.Membership.Backend.AspNetIdentity\\NorthWind.Membership.Backend.AspNetIdentity.csproj|solutionrelative:northwind.membership.backend.aspnetidentity\\options\\membershipdboptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B26992-3422-4744-83D0-B2F3BFF209CF}|NorthWind.Membership.Backend.AspNetIdentity\\NorthWind.Membership.Backend.AspNetIdentity.csproj|c:\\moviles\\primerparcial\\deberes\\northwind.membership\\northwind.membership.backend.aspnetidentity\\entities\\northwinduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B26992-3422-4744-83D0-B2F3BFF209CF}|NorthWind.Membership.Backend.AspNetIdentity\\NorthWind.Membership.Backend.AspNetIdentity.csproj|solutionrelative:northwind.membership.backend.aspnetidentity\\entities\\northwinduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01ADE8C-71D7-4BDD-A34B-E088D6235394}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|c:\\moviles\\primerparcial\\deberes\\northwind.membership\\northwind.membership.backend.core\\controllers\\userregistration\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01ADE8C-71D7-4BDD-A34B-E088D6235394}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\controllers\\userregistration\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01ADE8C-71D7-4BDD-A34B-E088D6235394}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|c:\\moviles\\primerparcial\\deberes\\northwind.membership\\northwind.membership.backend.core\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01ADE8C-71D7-4BDD-A34B-E088D6235394}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01ADE8C-71D7-4BDD-A34B-E088D6235394}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|c:\\moviles\\primerparcial\\deberes\\northwind.membership\\northwind.membership.backend.core\\presenters\\userregistration\\userregistrationpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01ADE8C-71D7-4BDD-A34B-E088D6235394}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\presenters\\userregistration\\userregistrationpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01ADE8C-71D7-4BDD-A34B-E088D6235394}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|c:\\moviles\\primerparcial\\deberes\\northwind.membership\\northwind.membership.backend.core\\resources\\userregistrationmessages.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{E01ADE8C-71D7-4BDD-A34B-E088D6235394}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\resources\\userregistrationmessages.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01ADE8C-71D7-4BDD-A34B-E088D6235394}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|c:\\moviles\\primerparcial\\deberes\\northwind.membership\\northwind.membership.backend.core\\usecases\\userregistration\\userregistrationinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01ADE8C-71D7-4BDD-A34B-E088D6235394}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\usecases\\userregistration\\userregistrationinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01ADE8C-71D7-4BDD-A34B-E088D6235394}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|c:\\moviles\\primerparcial\\deberes\\northwind.membership\\northwind.membership.backend.core\\interfaces\\common\\imembershipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01ADE8C-71D7-4BDD-A34B-E088D6235394}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\interfaces\\common\\imembershipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01ADE8C-71D7-4BDD-A34B-E088D6235394}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|c:\\moviles\\primerparcial\\deberes\\northwind.membership\\northwind.membership.backend.core\\interfaces\\userregistration\\iuserregistrationoutputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01ADE8C-71D7-4BDD-A34B-E088D6235394}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\interfaces\\userregistration\\iuserregistrationoutputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01ADE8C-71D7-4BDD-A34B-E088D6235394}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|c:\\moviles\\primerparcial\\deberes\\northwind.membership\\northwind.membership.backend.core\\interfaces\\userregistration\\iuserregistrationinputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01ADE8C-71D7-4BDD-A34B-E088D6235394}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\interfaces\\userregistration\\iuserregistrationinputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01ADE8C-71D7-4BDD-A34B-E088D6235394}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|c:\\moviles\\primerparcial\\deberes\\northwind.membership\\northwind.membership.backend.core\\northwind.membership.backend.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E01ADE8C-71D7-4BDD-A34B-E088D6235394}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\northwind.membership.backend.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +82,238 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Entities\\Class1.cs",
-              "RelativeDocumentMoniker": "NorthWind.Membership.Entities\\Class1.cs",
-              "ToolTip": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Entities\\Class1.cs",
-              "RelativeToolTip": "NorthWind.Membership.Entities\\Class1.cs",
+              "DocumentIndex": 4,
+              "Title": "DependencyContainer.cs",
+              "DocumentMoniker": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Backend.AspNetIdentity\\DependencyContainer.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.AspNetIdentity\\DependencyContainer.cs",
+              "ToolTip": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Backend.AspNetIdentity\\DependencyContainer.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.AspNetIdentity\\DependencyContainer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T14:44:07.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MembershipService.cs",
+              "DocumentMoniker": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Backend.AspNetIdentity\\Services\\MembershipService.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.AspNetIdentity\\Services\\MembershipService.cs",
+              "ToolTip": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Backend.AspNetIdentity\\Services\\MembershipService.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.AspNetIdentity\\Services\\MembershipService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T14:42:23.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IdentityErrorExtensions.cs",
+              "DocumentMoniker": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Backend.AspNetIdentity\\Extensions\\IdentityErrorExtensions.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.AspNetIdentity\\Extensions\\IdentityErrorExtensions.cs",
+              "ToolTip": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Backend.AspNetIdentity\\Extensions\\IdentityErrorExtensions.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.AspNetIdentity\\Extensions\\IdentityErrorExtensions.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA0wCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T14:41:26.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Messages.resx",
+              "DocumentMoniker": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Backend.AspNetIdentity\\Resources\\Messages.resx",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.AspNetIdentity\\Resources\\Messages.resx",
+              "ToolTip": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Backend.AspNetIdentity\\Resources\\Messages.resx",
+              "RelativeToolTip": "NorthWind.Membership.Backend.AspNetIdentity\\Resources\\Messages.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-02-21T14:41:14.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NorthWindMembershipContextFactory.cs",
+              "DocumentMoniker": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Backend.AspNetIdentity\\DataContexts\\NorthWindMembershipContextFactory.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.AspNetIdentity\\DataContexts\\NorthWindMembershipContextFactory.cs",
+              "ToolTip": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Backend.AspNetIdentity\\DataContexts\\NorthWindMembershipContextFactory.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.AspNetIdentity\\DataContexts\\NorthWindMembershipContextFactory.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T14:40:49.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MembershipDBOptions.cs",
+              "DocumentMoniker": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Backend.AspNetIdentity\\Options\\MembershipDBOptions.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.AspNetIdentity\\Options\\MembershipDBOptions.cs",
+              "ToolTip": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Backend.AspNetIdentity\\Options\\MembershipDBOptions.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.AspNetIdentity\\Options\\MembershipDBOptions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T23:29:35.41Z",
+              "WhenOpened": "2026-02-21T14:38:28.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NorthWindUser.cs",
+              "DocumentMoniker": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Backend.AspNetIdentity\\Entities\\NorthWindUser.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.AspNetIdentity\\Entities\\NorthWindUser.cs",
+              "ToolTip": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Backend.AspNetIdentity\\Entities\\NorthWindUser.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.AspNetIdentity\\Entities\\NorthWindUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T14:36:05.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EndpointsContainer.cs",
+              "DocumentMoniker": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\EndpointsContainer.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\EndpointsContainer.cs",
+              "ToolTip": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\EndpointsContainer.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\EndpointsContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T14:31:38.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRegistrationController.cs",
+              "DocumentMoniker": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Controllers\\UserRegistration\\UserRegistrationController.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Controllers\\UserRegistration\\UserRegistrationController.cs",
+              "ToolTip": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Controllers\\UserRegistration\\UserRegistrationController.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Controllers\\UserRegistration\\UserRegistrationController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T14:30:26.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRegistrationPresenter.cs",
+              "DocumentMoniker": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Presenters\\UserRegistration\\UserRegistrationPresenter.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Presenters\\UserRegistration\\UserRegistrationPresenter.cs",
+              "ToolTip": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Presenters\\UserRegistration\\UserRegistrationPresenter.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Presenters\\UserRegistration\\UserRegistrationPresenter.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwB0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T14:28:48.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValidationErrorsExtensions.cs",
+              "DocumentMoniker": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Extensions\\ValidationErrorsExtensions.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Extensions\\ValidationErrorsExtensions.cs",
+              "ToolTip": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Extensions\\ValidationErrorsExtensions.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Extensions\\ValidationErrorsExtensions.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvx4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T14:27:24.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRegistrationMessages.resx",
+              "DocumentMoniker": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Resources\\UserRegistrationMessages.resx",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Resources\\UserRegistrationMessages.resx",
+              "ToolTip": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Resources\\UserRegistrationMessages.resx",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Resources\\UserRegistrationMessages.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-02-21T14:26:57.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DependencyContainer.cs",
+              "DocumentMoniker": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\DependencyContainer.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\DependencyContainer.cs",
+              "ToolTip": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\DependencyContainer.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\DependencyContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T14:25:27.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserRegistrationInteractor.cs",
+              "DocumentMoniker": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\UseCases\\UserRegistration\\UserRegistrationInteractor.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\UseCases\\UserRegistration\\UserRegistrationInteractor.cs",
+              "ToolTip": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\UseCases\\UserRegistration\\UserRegistrationInteractor.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\UseCases\\UserRegistration\\UserRegistrationInteractor.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T14:24:39.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IMembershipService.cs",
+              "DocumentMoniker": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\Common\\IMembershipService.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Interfaces\\Common\\IMembershipService.cs",
+              "ToolTip": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\Common\\IMembershipService.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Interfaces\\Common\\IMembershipService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T14:24:14.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUserRegistrationOutputPort.cs",
+              "DocumentMoniker": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\UserRegistration\\IUserRegistrationOutputPort.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Interfaces\\UserRegistration\\IUserRegistrationOutputPort.cs",
+              "ToolTip": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\UserRegistration\\IUserRegistrationOutputPort.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Interfaces\\UserRegistration\\IUserRegistrationOutputPort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T14:22:01.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUserRegistrationInputPort.cs",
+              "DocumentMoniker": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\UserRegistration\\IUserRegistrationInputPort.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Interfaces\\UserRegistration\\IUserRegistrationInputPort.cs",
+              "ToolTip": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\UserRegistration\\IUserRegistrationInputPort.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Interfaces\\UserRegistration\\IUserRegistrationInputPort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T14:20:18.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NorthWind.Membership.Backend.Core",
+              "DocumentMoniker": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj",
+              "ToolTip": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-21T14:19:13.012Z",
               "EditorCaption": ""
             }
           ]

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Ja5a8XutQ/M=",
+  "dgSpecHash": "W3B+ZIFgDrw=",
   "success": true,
   "projectFilePath": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\jsanc\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\jsanc\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\jsanc\\.nuget\\packages\\northwind.validation.entities\\1.0.0\\northwind.validation.entities.1.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
