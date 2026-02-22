@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthWind.Membership.Backen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthWind.Membership.Backend.AspNetIdentity", "NorthWind.Membership.Backend.AspNetIdentity\NorthWind.Membership.Backend.AspNetIdentity.csproj", "{F1B26992-3422-4744-83D0-B2F3BFF209CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthWind.Membership.Frontend.RazorViews", "NorthWind.Membership.Frontend.RazorViews\NorthWind.Membership.Frontend.RazorViews.csproj", "{B8A86104-96F8-4752-9B36-66B7617B417E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F1B26992-3422-4744-83D0-B2F3BFF209CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1B26992-3422-4744-83D0-B2F3BFF209CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1B26992-3422-4744-83D0-B2F3BFF209CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8A86104-96F8-4752-9B36-66B7617B417E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8A86104-96F8-4752-9B36-66B7617B417E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8A86104-96F8-4752-9B36-66B7617B417E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8A86104-96F8-4752-9B36-66B7617B417E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
