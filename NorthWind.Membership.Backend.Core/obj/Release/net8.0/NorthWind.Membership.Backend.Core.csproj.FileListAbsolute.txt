@@ -16,3 +16,4 @@ C:\Moviles\PrimerParcial\Deberes\NorthWind.Membership\NorthWind.Membership.Backe
 C:\Moviles\PrimerParcial\Deberes\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Release\net8.0\refint\NorthWind.Membership.Backend.Core.dll
 C:\Moviles\PrimerParcial\Deberes\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Release\net8.0\NorthWind.Membership.Backend.Core.pdb
 C:\Moviles\PrimerParcial\Deberes\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Release\net8.0\ref\NorthWind.Membership.Backend.Core.dll
+C:\Moviles\PrimerParcial\Deberes\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Release\net8.0\NorthWind.Membership.Backend.Core.Resources.UserLoginMessages.resources

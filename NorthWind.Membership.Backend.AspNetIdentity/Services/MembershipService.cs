@@ -1,8 +1,10 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using NorthWind.Membership.Backend.AspNetIdentity.Entities;
 using NorthWind.Membership.Backend.AspNetIdentity.Extensions;
+using NorthWind.Membership.Backend.Core.Dtos;
 using NorthWind.Membership.Backend.Core.Interfaces.Common;
 using NorthWind.Membership.Entities.Dtos.UserRegistration;
+using NorthWind.Membership.Entities.UserLogin;
 using NorthWind.Result.Entities;
 using NorthWind.Validation.Entities.ValueObjects;
 using System;
@@ -13,11 +15,11 @@ using System.Threading.Tasks;
 
 namespace NorthWind.Membership.Backend.AspNetIdentity.Services
 {
-	internal class MembershipService(UserManager<NorthWindUser> manager) :
+	public class MembershipService(UserManager<NorthWindUser> manager) :
 	IMembershipService
 	{
 		public async Task<Result<IEnumerable<ValidationError>>> Register(
-	 UserRegistrationDto userData)
+		UserRegistrationDto userData)
 		{
 			Result<IEnumerable<ValidationError>> Result;
 			var User = new NorthWindUser
@@ -41,6 +43,20 @@ namespace NorthWind.Membership.Backend.AspNetIdentity.Services
 				CreateResult.Errors.ToValidationErrors());
 			}
 			return Result;
+		}
+
+		public async Task<UserDto> GetUserByCredentials(
+		UserCredentialsDto userData)
+		{
+			UserDto FoundUser = null;
+			var User = await manager.FindByNameAsync(userData.Email);
+			if (User != null &&
+			await manager.CheckPasswordAsync(User, userData.Password))
+			{
+				FoundUser = new UserDto(User.UserName, User.FirstName,
+				User.LastName);
+			}
+			return FoundUser;
 		}
 	}
 }

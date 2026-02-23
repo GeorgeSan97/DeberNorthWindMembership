@@ -5,7 +5,7 @@
     <version>1.0.0</version>
     <authors>NorthWind.Membership.Entities</authors>
     <description>Package Description</description>
-    <repository type="git" commit="70ed26857cbb765b7faaf04f2b8b7cef6088e27b" />
+    <repository type="git" commit="771b39837863bfd8cc6ded57b4a66d96198400d0" />
     <dependencies>
       <group targetFramework="net8.0">
         <dependency id="Microsoft.Extensions.DependencyInjection.Abstractions" version="8.0.2" exclude="Build,Analyzers" />
@@ -18,10 +18,15 @@
     <file src="C:\Moviles\PrimerParcial\Deberes\NorthWind.Membership\NorthWind.Membership.Entities\bin\Release\net8.0\NorthWind.Membership.Entities.dll" target="lib\net8.0\NorthWind.Membership.Entities.dll" />
     <file src="C:\Moviles\PrimerParcial\Deberes\NorthWind.Membership\NorthWind.Membership.Entities\DependencyContainer.cs" target="src\NorthWind.Membership.Entities\DependencyContainer.cs" />
     <file src="C:\Moviles\PrimerParcial\Deberes\NorthWind.Membership\NorthWind.Membership.Entities\Dtos\UserRegistration\UserRegistrationDto.cs" target="src\NorthWind.Membership.Entities\Dtos\UserRegistration\UserRegistrationDto.cs" />
+    <file src="C:\Moviles\PrimerParcial\Deberes\NorthWind.Membership\NorthWind.Membership.Entities\Resources\UserLoginMessages.Designer.cs" target="src\NorthWind.Membership.Entities\Resources\UserLoginMessages.Designer.cs" />
     <file src="C:\Moviles\PrimerParcial\Deberes\NorthWind.Membership\NorthWind.Membership.Entities\Resources\UserRegistrationMessages.Designer.cs" target="src\NorthWind.Membership.Entities\Resources\UserRegistrationMessages.Designer.cs" />
+    <file src="C:\Moviles\PrimerParcial\Deberes\NorthWind.Membership\NorthWind.Membership.Entities\UserLogin\TokensDto.cs" target="src\NorthWind.Membership.Entities\UserLogin\TokensDto.cs" />
+    <file src="C:\Moviles\PrimerParcial\Deberes\NorthWind.Membership\NorthWind.Membership.Entities\UserLogin\UserCredentialsDto.cs" target="src\NorthWind.Membership.Entities\UserLogin\UserCredentialsDto.cs" />
+    <file src="C:\Moviles\PrimerParcial\Deberes\NorthWind.Membership\NorthWind.Membership.Entities\Validators\UserLogin\UserCredentialsDtoValidator.cs" target="src\NorthWind.Membership.Entities\Validators\UserLogin\UserCredentialsDtoValidator.cs" />
     <file src="C:\Moviles\PrimerParcial\Deberes\NorthWind.Membership\NorthWind.Membership.Entities\Validators\UserRegistration\UserRegistrationDtoValidator.cs" target="src\NorthWind.Membership.Entities\Validators\UserRegistration\UserRegistrationDtoValidator.cs" />
     <file src="C:\Moviles\PrimerParcial\Deberes\NorthWind.Membership\NorthWind.Membership.Entities\ValueObjects\Endpoints.cs" target="src\NorthWind.Membership.Entities\ValueObjects\Endpoints.cs" />
     <file src="C:\Moviles\PrimerParcial\Deberes\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\NorthWind.Membership.Entities.GlobalUsings.g.cs" target="src\NorthWind.Membership.Entities\obj\Release\net8.0\NorthWind.Membership.Entities.GlobalUsings.g.cs" />
+    <file src="C:\Moviles\PrimerParcial\Deberes\NorthWind.Membership\NorthWind.Membership.Entities\Resources\UserLoginMessages.resx" target="src\NorthWind.Membership.Entities\Resources\UserLoginMessages.resx" />
     <file src="C:\Moviles\PrimerParcial\Deberes\NorthWind.Membership\NorthWind.Membership.Entities\Resources\UserRegistrationMessages.resx" target="src\NorthWind.Membership.Entities\Resources\UserRegistrationMessages.resx" />
     <file src="C:\Moviles\PrimerParcial\Deberes\NorthWind.Membership\NorthWind.Membership.Entities\NorthWind.Membership.Entities.csproj" target="src\NorthWind.Membership.Entities\NorthWind.Membership.Entities.csproj" />
   </files>

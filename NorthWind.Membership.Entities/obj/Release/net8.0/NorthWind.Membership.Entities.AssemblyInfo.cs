@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NorthWind.Membership.Entities")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c81d84a954539f8239d62b98c98248603255f744")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+771b39837863bfd8cc6ded57b4a66d96198400d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("NorthWind.Membership.Entities")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NorthWind.Membership.Entities")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

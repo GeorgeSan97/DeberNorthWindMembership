@@ -2,6 +2,7 @@ C:\Moviles\PrimerParcial\Deberes\NorthWind.Membership\NorthWind.Membership.Entit
 C:\Moviles\PrimerParcial\Deberes\NorthWind.Membership\NorthWind.Membership.Entities\bin\Debug\net8.0\NorthWind.Membership.Entities.dll
 C:\Moviles\PrimerParcial\Deberes\NorthWind.Membership\NorthWind.Membership.Entities\bin\Debug\net8.0\NorthWind.Membership.Entities.pdb
 C:\Moviles\PrimerParcial\Deberes\NorthWind.Membership\NorthWind.Membership.Entities\obj\Debug\net8.0\NorthWind.Membership.Entities.csproj.AssemblyReference.cache
+C:\Moviles\PrimerParcial\Deberes\NorthWind.Membership\NorthWind.Membership.Entities\obj\Debug\net8.0\NorthWind.Membership.Entities.Resources.UserLoginMessages.resources
 C:\Moviles\PrimerParcial\Deberes\NorthWind.Membership\NorthWind.Membership.Entities\obj\Debug\net8.0\NorthWind.Membership.Entities.Resources.UserRegistrationMessages.resources
 C:\Moviles\PrimerParcial\Deberes\NorthWind.Membership\NorthWind.Membership.Entities\obj\Debug\net8.0\NorthWind.Membership.Entities.csproj.GenerateResource.cache
 C:\Moviles\PrimerParcial\Deberes\NorthWind.Membership\NorthWind.Membership.Entities\obj\Debug\net8.0\NorthWind.Membership.Entities.GeneratedMSBuildEditorConfig.editorconfig

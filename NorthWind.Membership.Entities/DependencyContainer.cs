@@ -1,4 +1,6 @@
 ﻿using NorthWind.Membership.Entities.Dtos.UserRegistration;
+using NorthWind.Membership.Entities.UserLogin;
+using NorthWind.Membership.Entities.Validators.UserLogin;
 using NorthWind.Membership.Entities.Validators.UserRegistration;
 using System;
 using System.Collections.Generic;
@@ -12,8 +14,8 @@ public static class DependencyContainer
 	public static IServiceCollection AddMembershipValidators(
 	this IServiceCollection services)
 	{
-		services.AddModelValidator<UserRegistrationDto,
-		UserRegistrationDtoValidator>();
+		services.AddModelValidator<UserRegistrationDto,UserRegistrationDtoValidator>();
+		services.AddModelValidator<UserCredentialsDto,UserCredentialsDtoValidator>();
 		return services;
 	}
 

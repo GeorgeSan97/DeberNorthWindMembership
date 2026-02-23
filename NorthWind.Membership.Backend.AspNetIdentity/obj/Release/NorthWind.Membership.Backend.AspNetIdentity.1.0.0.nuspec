@@ -5,7 +5,7 @@
     <version>1.0.0</version>
     <authors>NorthWind.Membership.Backend.AspNetIdentity</authors>
     <description>Package Description</description>
-    <repository type="git" commit="70ed26857cbb765b7faaf04f2b8b7cef6088e27b" />
+    <repository type="git" commit="771b39837863bfd8cc6ded57b4a66d96198400d0" />
     <dependencies>
       <group targetFramework="net8.0">
         <dependency id="NorthWind.Membership.Backend.Core" version="1.0.0" exclude="Build,Analyzers" />
