@@ -3,20 +3,48 @@
   "WorkspaceRootPath": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8A86104-96F8-4752-9B36-66B7617B417E}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|c:\\moviles\\primerparcial\\deberes\\northwind.membership\\northwind.membership.frontend.razorviews\\components\\userlogincomponent.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8A86104-96F8-4752-9B36-66B7617B417E}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|solutionrelative:northwind.membership.frontend.razorviews\\components\\userlogincomponent.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8A86104-96F8-4752-9B36-66B7617B417E}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|c:\\moviles\\primerparcial\\deberes\\northwind.membership\\northwind.membership.frontend.razorviews\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A86104-96F8-4752-9B36-66B7617B417E}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|solutionrelative:northwind.membership.frontend.razorviews\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8A86104-96F8-4752-9B36-66B7617B417E}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|c:\\moviles\\primerparcial\\deberes\\northwind.membership\\northwind.membership.frontend.razorviews\\pages\\userloginpage.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8A86104-96F8-4752-9B36-66B7617B417E}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|solutionrelative:northwind.membership.frontend.razorviews\\pages\\userloginpage.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8A86104-96F8-4752-9B36-66B7617B417E}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|c:\\moviles\\primerparcial\\deberes\\northwind.membership\\northwind.membership.frontend.razorviews\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8A86104-96F8-4752-9B36-66B7617B417E}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|solutionrelative:northwind.membership.frontend.razorviews\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8A86104-96F8-4752-9B36-66B7617B417E}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|c:\\moviles\\primerparcial\\deberes\\northwind.membership\\northwind.membership.frontend.razorviews\\pages\\userloginpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B8A86104-96F8-4752-9B36-66B7617B417E}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|solutionrelative:northwind.membership.frontend.razorviews\\pages\\userloginpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B8A86104-96F8-4752-9B36-66B7617B417E}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|c:\\moviles\\primerparcial\\deberes\\northwind.membership\\northwind.membership.frontend.razorviews\\viewmodels\\userlogin\\userloginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A86104-96F8-4752-9B36-66B7617B417E}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|solutionrelative:northwind.membership.frontend.razorviews\\viewmodels\\userlogin\\userloginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8A86104-96F8-4752-9B36-66B7617B417E}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|c:\\moviles\\primerparcial\\deberes\\northwind.membership\\northwind.membership.frontend.razorviews\\components\\userlogincomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B8A86104-96F8-4752-9B36-66B7617B417E}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|solutionrelative:northwind.membership.frontend.razorviews\\components\\userlogincomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B8A86104-96F8-4752-9B36-66B7617B417E}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|c:\\moviles\\primerparcial\\deberes\\northwind.membership\\northwind.membership.frontend.razorviews\\authenticationstateprovider\\jwtauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A86104-96F8-4752-9B36-66B7617B417E}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|solutionrelative:northwind.membership.frontend.razorviews\\authenticationstateprovider\\jwtauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A86104-96F8-4752-9B36-66B7617B417E}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|c:\\moviles\\primerparcial\\deberes\\northwind.membership\\northwind.membership.frontend.razorviews\\services\\tokenlocalstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A86104-96F8-4752-9B36-66B7617B417E}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|solutionrelative:northwind.membership.frontend.razorviews\\services\\tokenlocalstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A86104-96F8-4752-9B36-66B7617B417E}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|c:\\moviles\\primerparcial\\deberes\\northwind.membership\\northwind.membership.frontend.razorviews\\interfaces\\itokenstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A86104-96F8-4752-9B36-66B7617B417E}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|solutionrelative:northwind.membership.frontend.razorviews\\interfaces\\itokenstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A86104-96F8-4752-9B36-66B7617B417E}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|c:\\moviles\\primerparcial\\deberes\\northwind.membership\\northwind.membership.frontend.razorviews\\httpmessagehandlers\\membershipbearertokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A86104-96F8-4752-9B36-66B7617B417E}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|solutionrelative:northwind.membership.frontend.razorviews\\httpmessagehandlers\\membershipbearertokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A86104-96F8-4752-9B36-66B7617B417E}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|c:\\moviles\\primerparcial\\deberes\\northwind.membership\\northwind.membership.frontend.razorviews\\components\\logindisplaycomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8A86104-96F8-4752-9B36-66B7617B417E}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|solutionrelative:northwind.membership.frontend.razorviews\\components\\logindisplaycomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A86104-96F8-4752-9B36-66B7617B417E}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|c:\\moviles\\primerparcial\\deberes\\northwind.membership\\northwind.membership.frontend.razorviews\\pages\\logoutpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8A86104-96F8-4752-9B36-66B7617B417E}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|solutionrelative:northwind.membership.frontend.razorviews\\pages\\logoutpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A86104-96F8-4752-9B36-66B7617B417E}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|c:\\moviles\\primerparcial\\deberes\\northwind.membership\\northwind.membership.frontend.razorviews\\pages\\logoutpage.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A86104-96F8-4752-9B36-66B7617B417E}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|solutionrelative:northwind.membership.frontend.razorviews\\pages\\logoutpage.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A86104-96F8-4752-9B36-66B7617B417E}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|c:\\moviles\\primerparcial\\deberes\\northwind.membership\\northwind.membership.frontend.razorviews\\resources\\commonmessages.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{B8A86104-96F8-4752-9B36-66B7617B417E}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|solutionrelative:northwind.membership.frontend.razorviews\\resources\\commonmessages.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +54,143 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserLoginPage.razor",
-              "DocumentMoniker": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Pages\\UserLoginPage.razor",
-              "RelativeDocumentMoniker": "NorthWind.Membership.Frontend.RazorViews\\Pages\\UserLoginPage.razor",
-              "ToolTip": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Pages\\UserLoginPage.razor",
-              "RelativeToolTip": "NorthWind.Membership.Frontend.RazorViews\\Pages\\UserLoginPage.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-23T02:49:46.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserLoginPage.razor.cs",
-              "DocumentMoniker": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Pages\\UserLoginPage.razor.cs",
-              "RelativeDocumentMoniker": "NorthWind.Membership.Frontend.RazorViews\\Pages\\UserLoginPage.razor.cs",
-              "ToolTip": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Pages\\UserLoginPage.razor.cs",
-              "RelativeToolTip": "NorthWind.Membership.Frontend.RazorViews\\Pages\\UserLoginPage.razor.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "TokenLocalStorage.cs",
+              "DocumentMoniker": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Services\\TokenLocalStorage.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Frontend.RazorViews\\Services\\TokenLocalStorage.cs",
+              "ToolTip": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Services\\TokenLocalStorage.cs",
+              "RelativeToolTip": "NorthWind.Membership.Frontend.RazorViews\\Services\\TokenLocalStorage.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T02:49:23.281Z",
+              "WhenOpened": "2026-02-24T21:37:27.631Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserLoginComponent.razor.cs",
-              "DocumentMoniker": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Components\\UserLoginComponent.razor.cs",
-              "RelativeDocumentMoniker": "NorthWind.Membership.Frontend.RazorViews\\Components\\UserLoginComponent.razor.cs",
-              "ToolTip": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Components\\UserLoginComponent.razor.cs",
-              "RelativeToolTip": "NorthWind.Membership.Frontend.RazorViews\\Components\\UserLoginComponent.razor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Title": "DependencyContainer.cs",
+              "DocumentMoniker": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\DependencyContainer.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Frontend.RazorViews\\DependencyContainer.cs",
+              "ToolTip": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\DependencyContainer.cs",
+              "RelativeToolTip": "NorthWind.Membership.Frontend.RazorViews\\DependencyContainer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwCMAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T02:42:50.532Z",
+              "WhenOpened": "2026-02-23T22:44:23.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MembershipBearerTokenHandler.cs",
+              "DocumentMoniker": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\HttpMessageHandlers\\MembershipBearerTokenHandler.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Frontend.RazorViews\\HttpMessageHandlers\\MembershipBearerTokenHandler.cs",
+              "ToolTip": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\HttpMessageHandlers\\MembershipBearerTokenHandler.cs",
+              "RelativeToolTip": "NorthWind.Membership.Frontend.RazorViews\\HttpMessageHandlers\\MembershipBearerTokenHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T22:43:55.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\_Imports.razor",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Frontend.RazorViews\\_Imports.razor",
+              "ToolTip": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\_Imports.razor",
+              "RelativeToolTip": "NorthWind.Membership.Frontend.RazorViews\\_Imports.razor",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-23T22:41:46.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginDisplayComponent.razor",
+              "DocumentMoniker": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Components\\LoginDisplayComponent.razor",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Frontend.RazorViews\\Components\\LoginDisplayComponent.razor",
+              "ToolTip": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Components\\LoginDisplayComponent.razor",
+              "RelativeToolTip": "NorthWind.Membership.Frontend.RazorViews\\Components\\LoginDisplayComponent.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-23T22:41:14.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LogoutPage.razor.cs",
+              "DocumentMoniker": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Pages\\LogoutPage.razor.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Frontend.RazorViews\\Pages\\LogoutPage.razor.cs",
+              "ToolTip": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Pages\\LogoutPage.razor.cs",
+              "RelativeToolTip": "NorthWind.Membership.Frontend.RazorViews\\Pages\\LogoutPage.razor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T22:40:31.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LogoutPage.razor",
+              "DocumentMoniker": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Pages\\LogoutPage.razor",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Frontend.RazorViews\\Pages\\LogoutPage.razor",
+              "ToolTip": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Pages\\LogoutPage.razor",
+              "RelativeToolTip": "NorthWind.Membership.Frontend.RazorViews\\Pages\\LogoutPage.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-23T22:40:09.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CommonMessages.resx",
+              "DocumentMoniker": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Resources\\CommonMessages.resx",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Frontend.RazorViews\\Resources\\CommonMessages.resx",
+              "ToolTip": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Resources\\CommonMessages.resx",
+              "RelativeToolTip": "NorthWind.Membership.Frontend.RazorViews\\Resources\\CommonMessages.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-02-23T22:24:54.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserLoginViewModel.cs",
+              "DocumentMoniker": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\ViewModels\\UserLogin\\UserLoginViewModel.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Frontend.RazorViews\\ViewModels\\UserLogin\\UserLoginViewModel.cs",
+              "ToolTip": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\ViewModels\\UserLogin\\UserLoginViewModel.cs",
+              "RelativeToolTip": "NorthWind.Membership.Frontend.RazorViews\\ViewModels\\UserLogin\\UserLoginViewModel.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwCEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T22:20:27.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITokenStorage.cs",
+              "DocumentMoniker": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Interfaces\\ITokenStorage.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Frontend.RazorViews\\Interfaces\\ITokenStorage.cs",
+              "ToolTip": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Interfaces\\ITokenStorage.cs",
+              "RelativeToolTip": "NorthWind.Membership.Frontend.RazorViews\\Interfaces\\ITokenStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T22:11:28.22Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UserLoginComponent.razor",
-              "DocumentMoniker": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Components\\UserLoginComponent.razor",
-              "RelativeDocumentMoniker": "NorthWind.Membership.Frontend.RazorViews\\Components\\UserLoginComponent.razor",
-              "ToolTip": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Components\\UserLoginComponent.razor",
-              "RelativeToolTip": "NorthWind.Membership.Frontend.RazorViews\\Components\\UserLoginComponent.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-23T02:42:21.928Z",
+              "Title": "JWTAuthenticationStateProvider.cs",
+              "DocumentMoniker": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\AuthenticationStateProvider\\JWTAuthenticationStateProvider.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Frontend.RazorViews\\AuthenticationStateProvider\\JWTAuthenticationStateProvider.cs",
+              "ToolTip": "C:\\Moviles\\PrimerParcial\\Deberes\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\AuthenticationStateProvider\\JWTAuthenticationStateProvider.cs",
+              "RelativeToolTip": "NorthWind.Membership.Frontend.RazorViews\\AuthenticationStateProvider\\JWTAuthenticationStateProvider.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T22:10:25.469Z",
               "EditorCaption": ""
             }
           ]

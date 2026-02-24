@@ -61,11 +61,38 @@ namespace NorthWind.Membership.Frontend.RazorViews.Resources {
         }
         
         /// <summary>
+        ///   Busca una cadena traducida similar a Cerrar Sesión..
+        /// </summary>
+        internal static string CloseSessionText {
+            get {
+                return ResourceManager.GetString("CloseSessionText", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a Crear cuenta..
+        /// </summary>
+        internal static string CreateAccountText {
+            get {
+                return ResourceManager.GetString("CreateAccountText", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Busca una cadena traducida similar a Correo.
         /// </summary>
         internal static string EmailLabel {
             get {
                 return ResourceManager.GetString("EmailLabel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a Iniciar Sesión..
+        /// </summary>
+        internal static string LoginText {
+            get {
+                return ResourceManager.GetString("LoginText", resourceCulture);
             }
         }
         
